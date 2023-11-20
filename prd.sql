@@ -1,5 +1,5 @@
 CREATE TABLE products (
-id INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT, 
+id INTEGER NOT NULL, 
 product_name TEXT, 
 product_cat TEXT, 
 sales_rep TEXT, 
