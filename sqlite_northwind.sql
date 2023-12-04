@@ -39,7 +39,7 @@ CREATE TABLE "Employees" (
  INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (4, 'Jonas', 'Jane', 2, '1993-01-12', 2957.00, 4, 1);
  INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (5, 'Madden', 'Jennifer', 3, '1990-03-28', 3100.00, 3, 2);
  INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (6, 'Frank', 'Lisa', 3, '1997-05-14', 3100.00, 1, 3);
- INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (7, 'Sandrine', 'Anita', 4, '1990-12-06', 900.00, 5, 8);
+ INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (7, 'Sandrine', 'Anita', 4, '1990-12-06', 900.00, 5, 6);
  INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (8, 'Adelyn', 'Robert', 5, '1991-09-29', 1700.00, 2, 3);
  INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (9, 'Wade', 'Robert', 5, '1991-02-20', 400.00, 2, 2);
  INSERT INTO Employees (id, lastname, firstname, title_id, birthdate, salary, dep_id, answers_to) VALUES (10, 'Madden', 'Kate', 5, '1991-09-28', 1350.00, 4, 3);
