@@ -1,3 +1,5 @@
+PRAGMA foreign_keys = on;
+
 CREATE TABLE "productcategories" (
   "id" INTEGER NOT NULL UNIQUE PRIMARY KEY AUTOINCREMENT,
   "name" TEXT NOT NULL
